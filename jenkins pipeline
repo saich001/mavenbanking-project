@@ -8,7 +8,7 @@ echo "this is "compile" stage" }
 stage 'test' {
 echo  "this is "test" stage" }
 stage 'package' {
-echo "this is "package" stage" }
+echo "this is 'package' stage" }
 stage 'deploy' {
 echo "this is "deploy" stage" }
 }
