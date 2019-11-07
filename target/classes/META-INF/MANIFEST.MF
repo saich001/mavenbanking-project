@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: jar/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Implementation-Version: 1.0-20191107
+OpenIDE-Module-Build-Version: 201911070615
+OpenIDE-Module: mavenbanking_project.insurence
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: mavenbanking_project
+OpenIDE-Module-Name: insurence
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.31.1
+

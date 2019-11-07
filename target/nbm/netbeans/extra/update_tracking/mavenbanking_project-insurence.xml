@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="mavenbanking_project.insurence">
+    <module_version install_time="1573107342178" last="true" origin="installer" specification_version="1.0">
+        <file crc="999158278" name="config/Modules/mavenbanking_project-insurence.xml"/>
+        <file crc="758949607" name="modules/mavenbanking_project-insurence.jar"/>
+    </module_version>
+</module>
