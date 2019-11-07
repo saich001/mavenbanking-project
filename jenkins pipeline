@@ -11,3 +11,4 @@ stage 'package' {
 echo "this is "package" stage" }
 stage 'deploy' {
 echo "this is "deploy" stage" }
+}
